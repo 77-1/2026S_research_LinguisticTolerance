@@ -1,2 +1,5 @@
 streamlit
 pandas
+janome
+gspread
+google-auth
